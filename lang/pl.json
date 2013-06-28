@@ -124,14 +124,14 @@
   "i18n-textsecure-desc": "Bezpieczna komunikacja SMS/MMS poprzez Androida.",
   "i18n-xabber-desc": "Klient wiadomo&#347;ci szyfrowanych przez OTR dla Androida.",
 
-  "i18n-ios-insecure-title": "iOS is unsecure",
+  "i18n-ios-insecure-title": "iOS niebezpieczny",
   "i18n-ios-insecure-desc": "Urz&#261;dzenia z iOS s&#261; &#347;ledzone poprzez sprz&#281;t.",
   "i18n-chatsecure-desc": "Szyfrowany klient wiadomo&#347;ci b&#322;yskawicznych dla iOS.",
   "i18n-onionbrowser-desc": "Bezpieczne przegl&#261;danie internetu na iOS.",
 
-  "i18n-meshnet": "Meshnet",
-  "i18n-meshnet-project-desc": "A decentralized alternative to the internet.",
-  "i18n-meshnet-note": "<p>A meshnet is a decentralized peer-to-peer network, with user-controlled physical links that are usually wireless.</p><p>&ldquo;Mesh networking (topology) is a type of networking where each node must not only capture and disseminate its own data, but also serve as a relay for other nodes, that is, it must collaborate to propagate the data in the network.&ldquo;</p><p>&mdash;<a href='https://en.wikipedia.org/wiki/Mesh_networking'>Wikipedia</a></p>",
+  "i18n-meshnet": "Sieć kratowa",
+  "i18n-meshnet-project-desc": "Zdecentralizowana sieć, alternatywa dla scentralizowanego internetu.",
+  "i18n-meshnet-note": "<p>metoda trasowania danych, która daje możliwość ustanawiania stałych połączeń w sieci zbudowanej z wielu połączonych między sobą węzłów. Jeśli nie wszystkie węzły mogą wymieniać się bezpośrednio danymi między sobą, są przesyłane przez sąsiadów, czyli podobnie jak w sieciach P2P.</p><p>&mdash;<a href='https://pl.wikipedia.org/wiki/Sie%C4%87_kratowa'>Wikipedia</a></p>",
 
   "i18n-add": "dodaj",
   "i18n-mostly-free": "przewa&#380;nie wolne i darmowe*",
