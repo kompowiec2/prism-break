@@ -26,6 +26,7 @@
   "i18n-disconnect-desc": "Niepo&#380;&#261;dane strony nie b&#281;d&#261; Ci&#281; &#347;ledzi&#263;",
   "i18n-httpseverywhere-desc": "Wymusza HTTPS, szyfruj&#261;c dane na odwiedzanych stronach.",
   "i18n-noscript-desc": "W&#322;&#261;cza JavaScript, Java i Flash tylko na stronach, kt&oacute;rym ufasz",
+  "i18n-RequestPolicy": 
 
   "i18n-web-search": "Wyszukiwarka",
   "i18n-duckduckgo-desc": "Anonimowe wyszukiwanie bez zapisywania historii.",
@@ -51,7 +52,8 @@
   "i18n-email-services": "Us&#322;ugi e-mail",
   "i18n-bitmessage-desc": "Szyfrowany, zdecentralizowany serwer mailowy.",
   "i18n-riseup-desc": "Bezpieczne i w pe&#322;ni prywatne konta e-mail.",
-  "i18n-kolab-desc": "Groupware server for email, calendars, adress books and synchronization to mobile phones.",
+  "i18n-kolab-desc": "Serwer pracy grupowej e-mail, kalendarze, książki adres i synchronizacja dla telefonów komórkowych.",
+  "i18n-Mykolab-desc": "Bezpieczne konto Kolab hostowane w Szwajcarii",
 
   "i18n-email-clients": "Klienty e-mail",
   "i18n-clawsmail-desc": "Lekka aplikacja ze wsparciem dla GPG.",
